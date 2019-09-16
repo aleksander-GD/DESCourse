@@ -1,0 +1,11 @@
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\week 37 lab\MainProgram\MainProgram\obj\Debug\netcoreapp2.1\MainProgram.csprojAssemblyReference.cache
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\week 37 lab\MainProgram\MainProgram\obj\Debug\netcoreapp2.1\MainProgram.csproj.CoreCompileInputs.cache
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\week 37 lab\MainProgram\MainProgram\obj\Debug\netcoreapp2.1\MainProgram.AssemblyInfoInputs.cache
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\week 37 lab\MainProgram\MainProgram\obj\Debug\netcoreapp2.1\MainProgram.AssemblyInfo.cs
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\week 37 lab\MainProgram\MainProgram\bin\Debug\netcoreapp2.1\MainProgram.deps.json
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\week 37 lab\MainProgram\MainProgram\bin\Debug\netcoreapp2.1\MainProgram.runtimeconfig.json
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\week 37 lab\MainProgram\MainProgram\bin\Debug\netcoreapp2.1\MainProgram.runtimeconfig.dev.json
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\week 37 lab\MainProgram\MainProgram\bin\Debug\netcoreapp2.1\MainProgram.dll
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\week 37 lab\MainProgram\MainProgram\bin\Debug\netcoreapp2.1\MainProgram.pdb
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\week 37 lab\MainProgram\MainProgram\obj\Debug\netcoreapp2.1\MainProgram.dll
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\week 37 lab\MainProgram\MainProgram\obj\Debug\netcoreapp2.1\MainProgram.pdb

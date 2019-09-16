@@ -1,0 +1,11 @@
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\week 37 lab\MainProgram\MainProgram\obj\Debug\netcoreapp2.1\PalindromeProgram.csprojAssemblyReference.cache
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\week 37 lab\MainProgram\MainProgram\obj\Debug\netcoreapp2.1\PalindromeProgram.csproj.CoreCompileInputs.cache
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\week 37 lab\MainProgram\MainProgram\obj\Debug\netcoreapp2.1\PalindromeProgram.AssemblyInfoInputs.cache
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\week 37 lab\MainProgram\MainProgram\obj\Debug\netcoreapp2.1\PalindromeProgram.AssemblyInfo.cs
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\week 37 lab\MainProgram\MainProgram\bin\Debug\netcoreapp2.1\PalindromeProgram.deps.json
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\week 37 lab\MainProgram\MainProgram\bin\Debug\netcoreapp2.1\PalindromeProgram.runtimeconfig.json
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\week 37 lab\MainProgram\MainProgram\bin\Debug\netcoreapp2.1\PalindromeProgram.runtimeconfig.dev.json
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\week 37 lab\MainProgram\MainProgram\bin\Debug\netcoreapp2.1\PalindromeProgram.dll
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\week 37 lab\MainProgram\MainProgram\bin\Debug\netcoreapp2.1\PalindromeProgram.pdb
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\week 37 lab\MainProgram\MainProgram\obj\Debug\netcoreapp2.1\PalindromeProgram.dll
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\week 37 lab\MainProgram\MainProgram\obj\Debug\netcoreapp2.1\PalindromeProgram.pdb
