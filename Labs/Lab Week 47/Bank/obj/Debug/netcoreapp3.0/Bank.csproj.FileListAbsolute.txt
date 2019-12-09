@@ -1,0 +1,11 @@
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 47\Bank\bin\Debug\netcoreapp3.0\Bank.exe
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 47\Bank\bin\Debug\netcoreapp3.0\Bank.deps.json
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 47\Bank\bin\Debug\netcoreapp3.0\Bank.runtimeconfig.json
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 47\Bank\bin\Debug\netcoreapp3.0\Bank.runtimeconfig.dev.json
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 47\Bank\bin\Debug\netcoreapp3.0\Bank.dll
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 47\Bank\bin\Debug\netcoreapp3.0\Bank.pdb
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 47\Bank\obj\Debug\netcoreapp3.0\Bank.csprojAssemblyReference.cache
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 47\Bank\obj\Debug\netcoreapp3.0\Bank.AssemblyInfoInputs.cache
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 47\Bank\obj\Debug\netcoreapp3.0\Bank.AssemblyInfo.cs
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 47\Bank\obj\Debug\netcoreapp3.0\Bank.dll
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 47\Bank\obj\Debug\netcoreapp3.0\Bank.pdb

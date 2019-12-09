@@ -1,0 +1,13 @@
+C:\Users\phoel\Dropbox\Software Engineering\Instructor\DES\8. 8-11-2018 (Remoting and Test)\Remoting\Server\Server\bin\Debug\Server.exe.config
+C:\Users\phoel\Dropbox\Software Engineering\Instructor\DES\8. 8-11-2018 (Remoting and Test)\Remoting\Server\Server\bin\Debug\Server.exe
+C:\Users\phoel\Dropbox\Software Engineering\Instructor\DES\8. 8-11-2018 (Remoting and Test)\Remoting\Server\Server\bin\Debug\Server.pdb
+C:\Users\phoel\Dropbox\Software Engineering\Instructor\DES\8. 8-11-2018 (Remoting and Test)\Remoting\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\phoel\Dropbox\Software Engineering\Instructor\DES\8. 8-11-2018 (Remoting and Test)\Remoting\Server\Server\obj\Debug\Server.exe
+C:\Users\phoel\Dropbox\Software Engineering\Instructor\DES\8. 8-11-2018 (Remoting and Test)\Remoting\Server\Server\obj\Debug\Server.pdb
+C:\Users\phoel\Dropbox\Software Engineering\Instructor\DES\8. 8-11-2018 (Remoting and Test)\Remoting\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\dotNetRemotingAssignment\Remoting (.NET)\Server\Server\bin\Debug\½.exe.config
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\dotNetRemotingAssignment\Remoting (.NET)\Server\Server\bin\Debug\½.exe
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\dotNetRemotingAssignment\Remoting (.NET)\Server\Server\bin\Debug\½.pdb
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\dotNetRemotingAssignment\Remoting (.NET)\Server\Server\obj\Debug\½.exe
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\dotNetRemotingAssignment\Remoting (.NET)\Server\Server\obj\Debug\½.pdb
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\dotNetRemotingAssignment\Remoting (.NET)\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache

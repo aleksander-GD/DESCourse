@@ -1,0 +1,11 @@
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 48\compositePattern\bin\Debug\netcoreapp3.0\compositePattern.exe
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 48\compositePattern\bin\Debug\netcoreapp3.0\compositePattern.deps.json
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 48\compositePattern\bin\Debug\netcoreapp3.0\compositePattern.runtimeconfig.json
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 48\compositePattern\bin\Debug\netcoreapp3.0\compositePattern.runtimeconfig.dev.json
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 48\compositePattern\bin\Debug\netcoreapp3.0\compositePattern.dll
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 48\compositePattern\bin\Debug\netcoreapp3.0\compositePattern.pdb
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 48\compositePattern\obj\Debug\netcoreapp3.0\compositePattern.csprojAssemblyReference.cache
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 48\compositePattern\obj\Debug\netcoreapp3.0\compositePattern.AssemblyInfoInputs.cache
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 48\compositePattern\obj\Debug\netcoreapp3.0\compositePattern.AssemblyInfo.cs
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 48\compositePattern\obj\Debug\netcoreapp3.0\compositePattern.dll
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 48\compositePattern\obj\Debug\netcoreapp3.0\compositePattern.pdb

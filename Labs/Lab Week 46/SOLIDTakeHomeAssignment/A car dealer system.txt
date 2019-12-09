@@ -1,0 +1,10 @@
+A car dealer system that where a user can go to and either see what used cars there are or to check new cars out.
+The dealer has contracts with different kinds of extern providers of cars, like hyundai, nissan, citroen, 
+mazada, mitsubish and ford.
+
+The dealer has different car dealer places around Denmark. 
+The dealer offers different services, a costumer can borrow a car if their own are at the workshop for reparears.
+ECS-cleaning that is offered to extend a cars lifespan. (Service to clean the inside of the cars motor)
+Totalservice has everything under one roof, which means this service includes workshop, damage center, paintworkshop,
+car preparation, and car wash. 
+And a last service is the safety deal agreement, that offers various services, see https://www.karvil.dk/vaerksted/tryghedsaftale/

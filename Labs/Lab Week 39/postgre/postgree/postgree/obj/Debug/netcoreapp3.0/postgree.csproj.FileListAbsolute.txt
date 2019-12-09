@@ -1,0 +1,8 @@
+D:\windows_mapper\Skrivebord\postgre\postgree\postgree\bin\Debug\netcoreapp3.0\postgree.exe
+D:\windows_mapper\Skrivebord\postgre\postgree\postgree\obj\Debug\netcoreapp3.0\postgree.csprojAssemblyReference.cache
+D:\windows_mapper\Skrivebord\postgre\postgree\postgree\obj\Debug\netcoreapp3.0\postgree.AssemblyInfoInputs.cache
+D:\windows_mapper\Skrivebord\postgre\postgree\postgree\obj\Debug\netcoreapp3.0\postgree.AssemblyInfo.cs
+D:\windows_mapper\Skrivebord\postgre\postgree\postgree\obj\Debug\netcoreapp3.0\postgree.csproj.ResolveComReference.cache
+D:\windows_mapper\Skrivebord\postgre\postgree\postgree\bin\Debug\netcoreapp3.0\Npgsql.dll
+D:\windows_mapper\Skrivebord\postgre\postgree\postgree\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\windows_mapper\Skrivebord\postgre\postgree\postgree\obj\Debug\netcoreapp3.0\postgree.csproj.CopyComplete

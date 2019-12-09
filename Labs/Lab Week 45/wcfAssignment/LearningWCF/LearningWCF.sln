@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningWCF", "LearningWCF.csproj", "{DDA3AA47-5EBA-463B-B80B-07E02B88E759}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettingStartedHost", "..\GettingStartedHost\GettingStartedHost.csproj", "{3260951E-EA5F-4492-B596-6303BF094BA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettingStartedClient", "..\GettingStartedClient\GettingStartedClient.csproj", "{1A7C5A5B-7B28-495A-BC8C-2F2894AC2FCC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{219AC106-75C5-477E-AEF7-F9A45A08CFC4} = {219AC106-75C5-477E-AEF7-F9A45A08CFC4}
+		{DDA3AA47-5EBA-463B-B80B-07E02B88E759} = {DDA3AA47-5EBA-463B-B80B-07E02B88E759}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorProgramWCF", "..\CalculatorProgramWCF\CalculatorProgramWCF.csproj", "{BC88AA79-5090-4EF5-B41D-3ED4B3BF5C80}"
+	ProjectSection(ProjectDependencies) = postProject
+		{DDA3AA47-5EBA-463B-B80B-07E02B88E759} = {DDA3AA47-5EBA-463B-B80B-07E02B88E759}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeService", "..\PalindromeService\PalindromeService.csproj", "{219AC106-75C5-477E-AEF7-F9A45A08CFC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDA3AA47-5EBA-463B-B80B-07E02B88E759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA3AA47-5EBA-463B-B80B-07E02B88E759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA3AA47-5EBA-463B-B80B-07E02B88E759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA3AA47-5EBA-463B-B80B-07E02B88E759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3260951E-EA5F-4492-B596-6303BF094BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3260951E-EA5F-4492-B596-6303BF094BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3260951E-EA5F-4492-B596-6303BF094BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3260951E-EA5F-4492-B596-6303BF094BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A7C5A5B-7B28-495A-BC8C-2F2894AC2FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A7C5A5B-7B28-495A-BC8C-2F2894AC2FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A7C5A5B-7B28-495A-BC8C-2F2894AC2FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A7C5A5B-7B28-495A-BC8C-2F2894AC2FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC88AA79-5090-4EF5-B41D-3ED4B3BF5C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC88AA79-5090-4EF5-B41D-3ED4B3BF5C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC88AA79-5090-4EF5-B41D-3ED4B3BF5C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC88AA79-5090-4EF5-B41D-3ED4B3BF5C80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{219AC106-75C5-477E-AEF7-F9A45A08CFC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219AC106-75C5-477E-AEF7-F9A45A08CFC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219AC106-75C5-477E-AEF7-F9A45A08CFC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219AC106-75C5-477E-AEF7-F9A45A08CFC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0628C910-CD1C-42CA-AE92-E91269FE5825}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+C:/Users/phoel/Dropbox/Software Engineering/Instructor/DES/8. 8-11-2018 (Remoting and Test)/Remoting/Client/Client/bin/Debug/Client.exe.config
+C:/Users/phoel/Dropbox/Software Engineering/Instructor/DES/8. 8-11-2018 (Remoting and Test)/Remoting/Client/Client/bin/Debug/Client.exe
+C:/Users/phoel/Dropbox/Software Engineering/Instructor/DES/8. 8-11-2018 (Remoting and Test)/Remoting/Client/Client/bin/Debug/Client.pdb
+C:/Users/phoel/Dropbox/Software Engineering/Instructor/DES/8. 8-11-2018 (Remoting and Test)/Remoting/Client/Client/obj/Debug/Client.csprojAssemblyReference.cache
+C:/Users/phoel/Dropbox/Software Engineering/Instructor/DES/8. 8-11-2018 (Remoting and Test)/Remoting/Client/Client/obj/Debug/Client.csproj.CoreCompileInputs.cache
+C:/Users/phoel/Dropbox/Software Engineering/Instructor/DES/8. 8-11-2018 (Remoting and Test)/Remoting/Client/Client/obj/Debug/Client.csproj.CopyComplete
+C:/Users/phoel/Dropbox/Software Engineering/Instructor/DES/8. 8-11-2018 (Remoting and Test)/Remoting/Client/Client/obj/Debug/Client.exe
+C:/Users/phoel/Dropbox/Software Engineering/Instructor/DES/8. 8-11-2018 (Remoting and Test)/Remoting/Client/Client/obj/Debug/Client.pdb
+C:/Users/phoel/Dropbox/Software Engineering/Instructor/DES/8. 8-11-2018 (Remoting and Test)/Remoting/Client/Client/bin/Debug/Server.exe
+C:/Users/phoel/Dropbox/Software Engineering/Instructor/DES/8. 8-11-2018 (Remoting and Test)/Remoting/Client/Client/bin/Debug/Server.pdb
+C:/Users/phoel/Dropbox/Software Engineering/Instructor/DES/8. 8-11-2018 (Remoting and Test)/Remoting/Client/Client/bin/Debug/Server.exe.config
+/Users/rja/Downloads/Remoting/Remoting (.NET)/Client/Client/bin/Debug/Client.exe.config
+/Users/rja/Downloads/Remoting/Remoting (.NET)/Client/Client/bin/Debug/Client.exe
+/Users/rja/Downloads/Remoting/Remoting (.NET)/Client/Client/bin/Debug/Client.pdb
+/Users/rja/Downloads/Remoting/Remoting (.NET)/Client/Client/bin/Debug/Server.exe
+/Users/rja/Downloads/Remoting/Remoting (.NET)/Client/Client/bin/Debug/Server.pdb
+/Users/rja/Downloads/Remoting/Remoting (.NET)/Client/Client/bin/Debug/Server.exe.config
+/Users/rja/Downloads/Remoting/Remoting (.NET)/Client/Client/obj/Debug/Client.csprojAssemblyReference.cache
+/Users/rja/Downloads/Remoting/Remoting (.NET)/Client/Client/obj/Debug/Client.csproj.CopyComplete
+/Users/rja/Downloads/Remoting/Remoting (.NET)/Client/Client/obj/Debug/Client.exe
+/Users/rja/Downloads/Remoting/Remoting (.NET)/Client/Client/obj/Debug/Client.pdb
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\dotNetRemotingAssignment\Remoting (.NET)\Client\Client\bin\Debug\Client.exe.config
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\dotNetRemotingAssignment\Remoting (.NET)\Client\Client\bin\Debug\Client.exe
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\dotNetRemotingAssignment\Remoting (.NET)\Client\Client\bin\Debug\Client.pdb
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\dotNetRemotingAssignment\Remoting (.NET)\Client\Client\bin\Debug\Server.exe
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\dotNetRemotingAssignment\Remoting (.NET)\Client\Client\bin\Debug\Server.pdb
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\dotNetRemotingAssignment\Remoting (.NET)\Client\Client\bin\Debug\Server.exe.config
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\dotNetRemotingAssignment\Remoting (.NET)\Client\Client\obj\Debug\Client.csproj.CopyComplete
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\dotNetRemotingAssignment\Remoting (.NET)\Client\Client\obj\Debug\Client.exe
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\dotNetRemotingAssignment\Remoting (.NET)\Client\Client\obj\Debug\Client.pdb
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\dotNetRemotingAssignment\Remoting (.NET)\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache

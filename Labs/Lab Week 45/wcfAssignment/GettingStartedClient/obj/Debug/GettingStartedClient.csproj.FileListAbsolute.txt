@@ -1,0 +1,12 @@
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\GettingStartedClient\bin\Debug\GettingStartedClient.exe.config
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\GettingStartedClient\bin\Debug\GettingStartedClient.exe
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\GettingStartedClient\bin\Debug\GettingStartedClient.pdb
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\GettingStartedClient\obj\Debug\GettingStartedClient.csprojAssemblyReference.cache
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\GettingStartedClient\obj\Debug\GettingStartedClient.exe
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\GettingStartedClient\obj\Debug\GettingStartedClient.pdb
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\GettingStartedClient\bin\Debug\GettingStartedClient.exe.config
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\GettingStartedClient\bin\Debug\GettingStartedClient.exe
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\GettingStartedClient\bin\Debug\GettingStartedClient.pdb
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\GettingStartedClient\obj\Debug\GettingStartedClient.exe
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\GettingStartedClient\obj\Debug\GettingStartedClient.pdb
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\GettingStartedClient\obj\Debug\GettingStartedClient.csprojAssemblyReference.cache

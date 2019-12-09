@@ -1,0 +1,5 @@
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\PalindromeService\bin\Debug\PalindromeService.dll.config
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\PalindromeService\bin\Debug\PalindromeService.dll
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\PalindromeService\bin\Debug\PalindromeService.pdb
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\PalindromeService\obj\Debug\PalindromeService.dll
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\PalindromeService\obj\Debug\PalindromeService.pdb

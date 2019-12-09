@@ -1,0 +1,10 @@
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 48\StatePatternHomework\obj\Debug\netcoreapp3.0\StatePatternHomework.AssemblyInfoInputs.cache
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 48\StatePatternHomework\obj\Debug\netcoreapp3.0\StatePatternHomework.AssemblyInfo.cs
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 48\StatePatternHomework\bin\Debug\netcoreapp3.0\StatePatternHomework.exe
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 48\StatePatternHomework\bin\Debug\netcoreapp3.0\StatePatternHomework.deps.json
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 48\StatePatternHomework\bin\Debug\netcoreapp3.0\StatePatternHomework.runtimeconfig.json
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 48\StatePatternHomework\bin\Debug\netcoreapp3.0\StatePatternHomework.runtimeconfig.dev.json
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 48\StatePatternHomework\bin\Debug\netcoreapp3.0\StatePatternHomework.dll
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 48\StatePatternHomework\bin\Debug\netcoreapp3.0\StatePatternHomework.pdb
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 48\StatePatternHomework\obj\Debug\netcoreapp3.0\StatePatternHomework.dll
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 48\StatePatternHomework\obj\Debug\netcoreapp3.0\StatePatternHomework.pdb

@@ -1,0 +1,137 @@
+﻿@{
+    ViewData["Title"] = "Experince";
+}
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        .collapsible {
+            background-color: #777;
+            color: white;
+            cursor: pointer;
+            padding: 18px;
+            width: 100%;
+            border: none;
+            text-align: left;
+            outline: none;
+            font-size: 15px;
+        }
+
+            .active, .collapsible:hover {
+                background-color: #555;
+            }
+
+        .content {
+            padding: 0 18px;
+            display: none;
+            overflow: hidden;
+            background-color: #f1f1f1;
+        }
+    </style>
+</head>
+<body>
+    <div class="text-center">
+        <h1 class="display-4">Experince</h1>
+        <h1>List over courses</h1>
+
+
+    </div>
+    <button type="button" class="collapsible">IT-Support Courses</button>
+    <div class="content">
+        <ul>
+            <li>
+                Operativesystems 1, rutine
+            </li>
+            <li>
+                Network 1, rutine
+            </li>
+            <li>
+                IT service Mangement 1 (ITIL 3.0), rutine
+            </li>
+            <li>
+                Network 2 and 3, rutine
+            </li>
+            <li>
+                Computertechnology 1, rutine
+            </li>
+            <li>
+                Servertechnology 1 - Linux, rutine
+            </li>
+            <li>
+                Servertechnology 1 - Database-Server, rutine
+            </li>
+            <li>
+                Scriptprogramming, rutine
+            </li>
+            <li>
+                Servertechnology 1
+            </li>
+            <li>
+                Service, rutine
+            </li>
+            <li>
+                Industry-related network products, rutine
+            </li>
+            <li>
+                Programming - Java 1, beginner
+            </li>
+            <li>
+                Windows Deployment Service, rutine
+            </li>
+            <li>
+                Virtualization of clients, advanced
+            </li>
+            <li>
+                Security 2, rutine
+            </li>
+            <li>
+                Final project for IT-Supporter, rutine
+            </li>
+
+
+        </ul>
+    </div>
+    <button type="button" class="collapsible">Software Technology Courses</button>
+    <div class="content">
+        <ul>
+            <li>
+                Computersystems
+            </li>
+            <li>
+                Object-Orientated Programming - Java
+            </li>
+            <li>
+                Introduction to Software Engineering
+            </li>
+            <li>
+                Organization related softwaredevelopment
+            </li>
+            <li>
+                Programming and Database
+            </li>
+            <li>
+                Organization and Software engineering
+            </li>
+        </ul>
+    </div>
+
+
+    <script>
+        var coll = document.getElementsByClassName("collapsible");
+        var i;
+
+        for (i = 0; i < coll.length; i++) {
+            coll[i].addEventListener("click", function () {
+                this.classList.toggle("active");
+                var content = this.nextElementSibling;
+                if (content.style.display === "block") {
+                    content.style.display = "none";
+                } else {
+                    content.style.display = "block";
+                }
+            });
+        }
+    </script>
+</body>
+</html>
+

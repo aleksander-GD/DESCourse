@@ -1,0 +1,17 @@
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\CalculatorProgramWCF\bin\Debug\CalculatorProgramWCF.exe.config
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\CalculatorProgramWCF\bin\Debug\CalculatorProgramWCF.exe
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\CalculatorProgramWCF\bin\Debug\CalculatorProgramWCF.pdb
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\CalculatorProgramWCF\obj\Debug\CalculatorProgramWCF.csprojAssemblyReference.cache
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\CalculatorProgramWCF\obj\Debug\CalculatorProgramWCF.Form1.resources
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\CalculatorProgramWCF\obj\Debug\CalculatorProgramWCF.Properties.Resources.resources
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\CalculatorProgramWCF\obj\Debug\CalculatorProgramWCF.csproj.GenerateResource.cache
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\CalculatorProgramWCF\obj\Debug\CalculatorProgramWCF.exe
+D:\Google Drev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\CalculatorProgramWCF\obj\Debug\CalculatorProgramWCF.pdb
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\CalculatorProgramWCF\bin\Debug\CalculatorProgramWCF.exe.config
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\CalculatorProgramWCF\bin\Debug\CalculatorProgramWCF.exe
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\CalculatorProgramWCF\bin\Debug\CalculatorProgramWCF.pdb
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\CalculatorProgramWCF\obj\Debug\CalculatorProgramWCF.Form1.resources
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\CalculatorProgramWCF\obj\Debug\CalculatorProgramWCF.Properties.Resources.resources
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\CalculatorProgramWCF\obj\Debug\CalculatorProgramWCF.csproj.GenerateResource.cache
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\CalculatorProgramWCF\obj\Debug\CalculatorProgramWCF.exe
+S:\GoogleDrev\Software Engineering, Diplom\3. semester\Design af softwaresystemer (DES), (E19)\Course Materials\Labs\Lab Week 45\CalculatorProgramWCF\obj\Debug\CalculatorProgramWCF.pdb
